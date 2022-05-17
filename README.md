@@ -2,7 +2,7 @@
 
 ## Topic: Library Management System
 
-## Project Guidelines:
+### Project Guidelines:
 1. You will create a Web 2.0 application that allows users to consume and produce data.
 2. The minimum requirements for the project are:
 - Spring Boot
