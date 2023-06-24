@@ -1,6 +1,6 @@
 # INFO6250 - Web Development Tools & Methods Final Project
 
-## Topic: Library Management System
+## Topic: PageTurner Online Book Rental
 
 ### Project Guidelines:
 1. You will create a Web 2.0 application that allows users to consume and produce data.
@@ -12,7 +12,7 @@
   - DAO Pattern
 
 ### Description:
-This is a library management system for a public library, which will allow users to register themselves to be able browse their favorite books and reserve them. They will have to pick-up their reserved books from the library. This system will also have employee and admin accounts, which will allow for the management of book inventory and customers.
+This is an online book rental platform, which will allow users to register themselves to be able browse their favorite books and reserve them. They will have to pick-up their reserved books from the library. This system will also have employee and admin accounts, which will allow for the management of book inventory and customers.
 
 ### Technical Stack:
   - Client Side: HTML, CSS, JSP
